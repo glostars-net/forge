@@ -1,0 +1,6 @@
+node_modules/
+.forge-build/
+.test-tmp-*
+.deja/
+.opencode/
+answer.txt
